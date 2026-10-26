@@ -7,7 +7,7 @@
   <br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Senior+GenAI+%2F+LLM+Engineer+with+10%2B+years+of+experience+%F0%9F%9A%80;Building+enterprise+RAG+systems+over+~250%2C000+documents+%F0%9F%93%8A;LangChain+%7C+LlamaIndex+%7C+Azure+Databricks+%7C+Spark+%7C+Snowflake+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=140&lines=Senior+GenAI+%2F+LLM+Engineer+with+10%2B+years+of+experience+%F0%9F%9A%80;Building+enterprise+RAG+systems+over+~250%2C000+documents+%F0%9F%93%8A;LangChain+%7C+LlamaIndex+%7C+Azure+Databricks+%7C+Spark+%7C+Snowflake+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
 </div>
